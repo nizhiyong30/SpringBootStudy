@@ -7,6 +7,6 @@ import org.springframework.context.annotation.ImportResource;
  * Created by nizy on 2018/9/5.
  */
 @Configuration
-@ImportResource(locations={"spring/applicationContext.xml"})
+@ImportResource(locations = {"spring/applicationContext.xml"})
 public class Config {
 }
